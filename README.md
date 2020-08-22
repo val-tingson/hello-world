@@ -1,2 +1,4 @@
 # hello-world
-Hello World Project!
+Hi Devs,
+
+This is a start of a new journey.
